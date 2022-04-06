@@ -14,3 +14,10 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+    
+# Civil Auto Cleanup
+- project: CA_CleanUp
+  role: Contributor
+  duration: 2022 &mdash; Present
+  url: "http://www.google.com"
+  description: Need to clean up Civil Auto to make it stable and on the current .NET Framework
